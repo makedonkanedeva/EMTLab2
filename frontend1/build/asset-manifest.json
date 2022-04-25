@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/makedonkanedeva/EmtLab2/static/css/main.073c9b0a.css",
+    "main.js": "/makedonkanedeva/EmtLab2/static/js/main.75689b97.js",
+    "static/js/787.cda612ba.chunk.js": "/makedonkanedeva/EmtLab2/static/js/787.cda612ba.chunk.js",
+    "index.html": "/makedonkanedeva/EmtLab2/index.html",
+    "main.073c9b0a.css.map": "/makedonkanedeva/EmtLab2/static/css/main.073c9b0a.css.map",
+    "main.75689b97.js.map": "/makedonkanedeva/EmtLab2/static/js/main.75689b97.js.map",
+    "787.cda612ba.chunk.js.map": "/makedonkanedeva/EmtLab2/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.75689b97.js"
+  ]
+}
